@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/aa/Desktop/799 /AWSMessengerAndroid 2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/aa/Desktop/799 /AWSMessengerAndroid 2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_332f0f795a07f7a53c9ca483195538e086085608/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aa/Desktop/799 /AWSMessengerAndroid 2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a208ad47ebbf5abf67f75b0ad73dffc0e92c9095">
+        <dex dex="/Users/aa/Desktop/799 /AWSMessengerAndroid 2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_44f189d8314095625ae41b545f58c5fbd81497f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aa/.android/build-cache/3606b802f34ab813efb6036d5003e00f7797d2bd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/Users/aa/Desktop/799 /AWSMessengerAndroid 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_43f751505fd77a024d0a1ef2e4d06d7358944fde/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aa/.android/build-cache/05f16645c2c0dc51c2a539a933cccd77998471fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/aa/Desktop/799 /AWSMessengerAndroid 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4bc2fa08e08a5a04f53517b5dd8e288e7e934fa9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio 2.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/aa/Desktop/799 /AWSMessengerAndroid 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_593dd7370e40f8ce8ad93dccb307d5f4c2b5b8d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aa/.android/build-cache/ab1c24ed50e36500bd89c0d06162ec1987fc5b88/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/Users/aa/Desktop/799 /AWSMessengerAndroid 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_96e54ea904e96c5099d46d93214bcf94371da4d2/classes.dex" />
+    </item>
+
+</items>

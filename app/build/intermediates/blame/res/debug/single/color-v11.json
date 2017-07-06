@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/aa/Desktop/799 /AWSMessengerAndroid 2/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/799 /AWSMessengerAndroid 2/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerAndroid 2/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerAndroid 2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerAndroid 2/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerAndroid 2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

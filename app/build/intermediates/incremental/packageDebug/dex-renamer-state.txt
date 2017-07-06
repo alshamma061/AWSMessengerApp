@@ -1,0 +1,7 @@
+#Thu Jun 22 19:27:07 EDT 2017
+base.0=/Users/aa/Desktop/799 /AWSMessengerAndroid 2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_44f189d8314095625ae41b545f58c5fbd81497f8
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/aa/Desktop/799 /AWSMessengerAndroid 2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_332f0f795a07f7a53c9ca483195538e086085608/classes.dex
+base.1=/Users/aa/Desktop/799 /AWSMessengerAndroid 2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_332f0f795a07f7a53c9ca483195538e086085608
+file.0=/Users/aa/Desktop/799 /AWSMessengerAndroid 2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_44f189d8314095625ae41b545f58c5fbd81497f8/classes.dex
